@@ -1,2 +1,2 @@
-# Empty
-This is an empty repository.
+# Purpose
+Comparing while loop and for loop
