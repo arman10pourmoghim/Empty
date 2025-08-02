@@ -1,4 +1,15 @@
-print("While loop vs. For loop:")
+print("print vs. f string:")
+print("")
+
+print("My name is Arman and I'm 20 years old.")
+print("-"*10)
+name= "Arman"
+age= 20
+print(f"My name is {name} and I am {age} years old.")
+
+print("_"*10)
+
+print("\nWhile loop vs. For loop:")
 print("")
 
 i = 0
